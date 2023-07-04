@@ -17,7 +17,7 @@
 ## Donde me puedes encontrar
 
 _Personal_
-* **[Email](jaison.mora.viquez@gmail.com)**
+* **[Email](mailto:jaison.mora.viquez@gmail.com)**
 
 _Emprendimiento_
 * Soporte Técnico **[Facebook](https://www.facebook.com/ravztech)**
