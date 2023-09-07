@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/moraja1/moraja1/main/img/sign.png)
 <!--![Imagen de Firma de Jaison Mora Víquez, Software Developer, Expertise Java](https://raw.githubusercontent.com/moraja/moraja1/main/img/sign.png)-->
 
- Soy **Desarrollador backend**, con 2 años de experiencia en tecnologías de la Información, trabajo para la Universidad Nacional de Costa Rica y he colaborado en **el desarrollo de sistemas de automatización de procesos ofimáticos**.  Nunca paro de aprender, sigo estudiando en la universidad Ingeniería de Software y me apasiona lo que hago. Espero llegar a ser **Full Stack Developer especializado en Ciberseguridad**, me encanta la tecnología, busco oportunidades para emprender, conocer nuevas tecnologías y personas, colaborar y **continuar aprendiendo.**
+ Soy **Desarrollador backend**, con 2 años de experiencia en tecnologías de la Información, trabajo para la Universidad Nacional de Costa Rica y he colaborado en **el desarrollo de sistemas de automatización de procesos ofimáticos**.  Nunca paro de aprender, sigo estudiando en la universidad Ingeniería de Software y me apasiona lo que hago. Espero llegar a ser un **Ingeniero en Sistemas de Información especializado en Ciberseguridad**, me encanta la tecnología, busco oportunidades para emprender, conocer nuevas tecnologías y personas, colaborar y **continuar aprendiendo.**
 
 #### Apps y Herramientas que uso:
 
